@@ -1,0 +1,20 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\Arkadia\Desktop\HelloApp\Game\Game.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Arkadia\Desktop\HelloApp\Game\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\Arkadia\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.10.7-hotspot\
+Substitute:	PATH = C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\dotnet\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\Arkadia\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.10.7-hotspot\bin;C:\Users\Arkadia\AppData\Local\Microsoft\WindowsApps;;C:\Users\Arkadia\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Arkadia\AppData\Roaming\npm
+JRE paths:	C:\Users\Arkadia\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.10.7-hotspot\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\dotnet\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\Arkadia\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.10.7-hotspot\bin;C:\Users\Arkadia\AppData\Local\Microsoft\WindowsApps;;C:\Users\Arkadia\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Arkadia\AppData\Roaming\npm
+Check launcher:	C:\Users\Arkadia\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.10.7-hotspot\bin\javaw.exe (OK)
+Version string: 1.017.000_010 / 64-Bit (OK)
+Launcher:	C:\Users\Arkadia\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.10.7-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Arkadia\Desktop\HelloApp\Game\Game.exe"
+Args length:	54/32768 chars
+Exit code:	0
